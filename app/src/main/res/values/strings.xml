@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KontactBLERecorder</string>
+    <string name="zero">0</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
